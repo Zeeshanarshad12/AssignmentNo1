@@ -1,0 +1,10 @@
+Assignment No 1
+
+What is cloud Computing?
+What are the different types of Cloud?
+What are the cloud service models?
+
+Explain the above questions in a single file and push them to the below Git repo: 
+https://github.com/Zeeshanarshad12/AssignmentNo1
+
+Good Luck !!!
