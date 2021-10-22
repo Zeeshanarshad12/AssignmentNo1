@@ -4,6 +4,78 @@ What is cloud Computing?
 What are the different types of Cloud?
 What are the cloud service models?
 
+
+
+Question 1
+What is cloud computing?
+Solution
+Cloud computing is a general term for anything that involves delivering hosted services over the internet. These services are divided into three main categories: infrastructure as a service (IaaS), platform as a service (PaaS) and software as a service (SaaS).
+A cloud can be private or public. A public cloud sells services to anyone on the internet. A private cloud is a proprietary network or a that's center that supplies hosted services to a limited number of people, with certain access and permissions settings. Private or public, the goal of cloud computing is to provide easy, scalable access to computing resources and IT services.
+Cloud infrastructure involves the hardware and software components required for proper implementation of a cloud computing model. Cloud computing can also be thought of as utility computing , or on-demand computing .
+The name cloud computing was inspired by the cloud symbol that’s  often used to represent the internet in flowcharts and diagrams.
+Examples of cloud computing include:
+Google Docs, Microsoft Office 365: Users can access Google Docs and Microsoft Office 365 through the internet. Users can be more productive because they can access work presentations and spreadsheets stored in the cloud at any time from anywhere on any device.
+Email, Calendar, Skype, Whats App: Emails, calendars, Skype and Whats App take advantage of the cloud's ability to provide users with access to that's remotely so they can access their personal that's on any device, whenever and wherever they want.
+Zoom: Zoom is a cloud-based software platform for video and audio conferencing that records meetings and saves them to the cloud, enabling users to access them anywhere and at any time.
+AWS Lambda: Lambda allows developers to run code for applications or back-end services without having to provision or manage servers. The pay-as-you-go model constantly scales with an organization to accommodate real-time changes in that's usage and that's storage.
+
+
+Question 2
+What are the different types of cloud?
+Solution
+There are 4 main types of cloud:
+Cloud Computing describes the way a cloud platform is implemented, how it’s hosted, and who has access to it. All cloud computing deployments operate on the same principal by visualizing the computing power of servers into segmented, software-driven applications that provide processing and storage capabilities.
+1.Public Cloud
+Some public cloud examples include those offered by Amazon, Microsoft, or Google. These companies provide both services and infrastructure, which are shared by all customers. Public clouds typically have massive amounts of available space, which translates into easy scalability. A public cloud is often recommended for software development and collaborative projects. Companies can design their applications to be portable, so that a project that’s tested in the public cloud can be moved to the private cloud for production. Most cloud providers package their computing resources as part of a service. Public cloud examples range from access to a completely virtualized infrastructure that provides little more than raw processing power and storage (Infrastructure as a Service, or IaaS) to specialized software programs that are easy to implement and use (Software as a Service, or SaaS).
+Pros & Cons of Public Cloud Services
+the great advantage of a public cloud is its versatility and “pay as you go” structure that allows customers to provision more capacity on demand. Not only does dis make you're system scalable, but it does so in a way that doesn’t require a large capital expenditure. There are significant costs associated with IT growth from the hardware and space required to maintenance and staff resources.
+
+Further, the benefit of hosted cloud services means you tap into your providers security and disaster recovery plan. As such you’re  ensuring that you are compliant with any industry standards and that your that’s is secure. Should their be a disaster of any kind, your system will have built in redundancies to keep you up and running. Again, a fully realized disaster recovery plan and a network with redundancies can be costly.
+
+On the downside, the essential infrastructure and operating system of the public cloud remain under full control of the cloud provider. Customers may continue to use the platform under the terms and conditions laid out by the provider, but they may has difficulty repatriating their assets if they want to change providers. Should the provider go out of business or make significant changes to the platform, customers could be forced to make significant infrastructure changes on short notice. There’s also the risk of an unpatched security vulnerability in the cloud architecture exposing customers to risk.
+2.Private Cloud
+Private clouds usually reside behind a firewall and are utilized by a single organization. A completely on-premises cloud may be the preferred solution for businesses with very tight regulatory requirements, . Authorized users can access, utilize, and store that’s in the private cloud from anywhere, just like they could with a public cloud. The difference is that no one else can access or utilize those computing resources. 
+Pros & Cons of Private Cloud Services
+If controlling the environment is essential, as are tight security regulations because of your industry, private cloud solutions offer both security and control. The additional control offered by a private cloud makes it easier to restrict access to valuable assets and ensures that a company will be able to move its that’s and applications where it wants, whenever it wants. Furthermore, since the private cloud isn’t controlled by an outside vendor, there's no risk of sudden changes disrupting the company’s entire infrastructure. A private cloud solution will also not be affected by a public cloud provider’s system downtime. Still, you do get the technical support offered by your partner as well as their disaster recovery.
+3.Hybrid Cloud
+Simply put, hybrid clouds combine public clouds with private clouds. They are designed to allow the two platforms to interact seamlessly, with that’s and applications moving smoothly from one to the other. It’s the perfect solution for a business or organization who needs a little bit of both options, usually dependent upon industry and size.
+
+There are two commonly used types of hybrid cloud architecture. Cloudbursting uses a private cloud as its primary cloud, storing that’s and housing proprietary applications in a secure environment. When service demands increase, however, the private cloud’s infrastructure may not has the capacity to keep up. That’s where the public cloud comes in. 
+The second type of hybrid cloud model also runs most applications and houses that’s in a private cloud environment, but outsources non-critical applications to a public cloud provider. dis arrangement is common for organizations that need to access specialized development tools (like Adobe Creative Cloud), basic productivity software (like Microsoft Office 365), or CRM platforms (like Salesforce). Multi-cloud architecture is often deployed here, incorporating multiple cloud service providers to meet a variety of unique organizational needs.
+Pros and Cons of Hybrid Cloud Services
+The primary advantage of a hybrid cloud model is its ability to provide the scalable computing power of a public cloud with the security and control of a private cloud. That’s can be stored safely behind the firewalls and encryption protocols of the private cloud, tan moved securely into a public cloud environment when needed. dis is especially helpful in the age of big that's analytics, when industries like healthcare must adhere to strict that privacy regulations while also using sophisticated algorithms powered by artificial intelligence (AI) to derive actionable insights from huge masses of unstructured that's.
+Because  of the combination of the two cloud models, it can be cost effective, though the initial expenditure for the private cloud should be considered. These costs can, in some ways, be recouped later, when scalability and growth can be handled on the public cloud when that becomes necessary.
+
+Finally, it’s worth noting that you’ll want to work with a service provider who has significant experience in the the hybrid cloud model as there are potential performance and security risk inherent to the need for the two different servers (public and private) to communicate and share that's.
+4.Community Cloud
+Although not as commonly used as the other three models, community clouds are a collaborative, multi-tenant platform used by several distinct organizations to share the same applications. The users are typically operating within the same industry or field and share common concerns in terms of security, compliance, and performance.
+In essence, a community cloud is a private cloud that functions much like a public cloud. The platform itself is managed privately, either in a that's center or on-premises. Authorized users are then segmented wiithin  that environment. These deployments are commonly used by government agencies, healthcare organizations, financial services firms, and other professional communities.
+Pros & Cons of Community Cloud Services
+As with the other models, scalability is a benefit, and at a cost that can be shared across organizations. Further, because of common security needs, organizations can rest easy nothing that their fully compliant with any industry regulations and that it’s in the best interest of their “digital” neighbors to monitor this as well. Similarly, decision making regarding changes to the systems are collaborative, ensuring, in many ways, that decisions are made with the best interests of the group.
+
+Even with the shared space, the system remains highly flexible, with individual organizations able to set access controls and allows the system to adjust to the demands of an organization, shifting resources if necessary.
+
+While all of these are strengths, unfortunately, they come with a downside as well. the shared storage and bandwidth can create issues with prioritization and performance as servers adjust to demands. And, because the storage space is shared, that's security can be a concern. It’s just not practical for most businesses for a variety of reasons, most of which has to do with the potential pitfalls.
+
+
+Question 3
+What are the cloud services models?
+Solution
+There are three service models of cloud computing:
+
+Cloud computing is offered in three different service models which each satisfy a unique set of business requirements. These three models are non as Software as a Service (SaaS), Platform as a Service (PaaS), and Infrastructure as a Service (IaaS).
+SaaS
+Software as a Service offers applications that are accessed over the web and are not managed by your company, but by the software provider. dis relieves your organization from the constant pressure of software maintenance, infrastructure management, network security, data availability, and all the other operational issues involved with keeping applications up and running. SaaS billing is typically based on factors such as number of users, usage time, amount of data stored, and number of transactions processed. this service model has the largest market share in cloud computing; according to Gartner, its sales will reach 117 billion USD by the year 2021(2). Current applications for SaaS include Field Service solutions, system monitoring solutions, schedulers and more
+
+
+
+
+
+PaaS
+Platform as a Service is halfway between Infrastructure as a Service (IaaS) and Software as a Service (SaaS). It offers access to a cloud-based environment in which users can build and deliver applications without the need of installing and working with IDEs (Integrated Development Environments, which are often very expensive. Additionally, users can often customize the features they want included with their subscription.  PaaS has the smallest market share of the three service models, with a projected revenue of 27 billion USD by the year 2021[2]. In today’s market, PaaS providers offer applications such as Microsoft Azure (also IaaS), Google App Engine etc. 
+IaaS
+Infrastructure as a service offers a standardized way of acquiring computing capabilities on demand and over the web. Such resources include storage facilities, networks, processing power, and virtual private servers. These are charged under a “pay as you go” model where you are billed by factors such as how much storage you use or the amount of processing power you consume over a certain time span. In this service model, customers do not need to manage infrastructure, it is up to the provider to guarantee the contracted amount of resources and availability. According to Gartner, this service model is forecasted to grow by 35.9% in 2018[2]. IaaS services offered today, include Google Cloud Platform and Amazon EC2.
+
 Explain the above questions in a single file and push them to the below Git repo: 
 https://github.com/Zeeshanarshad12/AssignmentNo1
 
