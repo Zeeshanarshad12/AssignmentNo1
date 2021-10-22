@@ -1,10 +1,40 @@
 Assignment No 1
 
-What is cloud Computing?
-What are the different types of Cloud?
-What are the cloud service models?
 
-Explain the above questions in a single file and push them to the below Git repo: 
-https://github.com/Zeeshanarshad12/AssignmentNo1
+Question 1: What is Cloud Computing?
 
-Good Luck !!!
+Cloud Computing is the delivery of hosting services that are provided to a client over the Internet. It enables large-scale services without up-front investment.
+
+Cloud computing is a model for enabling convenient, on-demand network access to a shared pool of configurable computing resources (e.g., networks, servers, storage, applications, and services) that can be rapidly provisioned and released with minimal management effort or service provider interaction.
+
+Cloud services are controlled and monitored by the cloud provider through a pay-per-use business model. Cloud services are controlled and monitored by the cloud provider through a pay-per-use business model. An ideal cloud computing platform is efficient in its use of resources, scalable, elastic, self-managing, highly available, accessible, inter-operable and portable.
+
+
+Question 2: What are the different types of Cloud?
+
+There are four main types of cloud computing: private clouds, public clouds, hybrid clouds, and Community Clouds.
+
+1. Private Clouds - Public clouds are owned by cloud service providers who charge for the use of cloud resources. Basic characteristics include Homogeneous infrastructure, Common policies, Shared resources and multi-tenancy, Leased or rented infrastructure and Economies of scale.
+
+2. Private Clouds - The cloud infrastructure belongs to and is operated by only one organization. Basic characteristics include Heterogeneous infrastructure, Customized policies, dedicated resources, In-house infrastructure, and End-to-end control.
+
+3. Community Clouds - The cloud infrastructure is shared by several organizations and supports a specific community that has shared concerns (e.g., mission, security requirements, policy, and compliance considerations).
+
+4. Hybrid Clouds - The cloud infrastructure is a composition of two or more clouds (private, community, or public) that remain unique entities but are bound together by standardized or proprietary technology that enables data and application portability.
+
+Question 3: What are the cloud service models?
+
+Cloud computing is offered in three different service models which each satisfy a unique set of business requirements. These three models are known as Software as a Service (SaaS), Platform as a Service (PaaS), and Infrastructure as a Service (IaaS).
+
+1. Software as a Service (SaaS)
+Software as a Service offers applications that are accessed over the web and are not managed by your company, but by the software provider. This relieves your organization from the constant pressure of software maintenance, infrastructure management, network security, data availability, and all the other operational issues involved with keeping applications up and running. SaaS billing is typically based on factors such as number of users, usage time, amount of data stored, and number of transactions processed. This service model has the largest market share in cloud computing; according to Gartner, its sales will reach 117 billion USD by the year 2021. Current applications for SaaS include Field Service solutions, system monitoring solutions, schedulers and more.
+
+2. Platform as a Service (PaaS)
+Platform as a Service is halfway between Infrastructure as a Service (IaaS) and Software as a Service (SaaS). It offers access to a cloud-based environment in which users can build and deliver applications without the need of installing and working with IDEs (Integrated Development Environments, which are often very expensive. Additionally, users can often customize the features they want included with their subscription. According to Gartner, PaaS has the smallest market share of the three service models, with a projected revenue of 27 billion USD by the year 2021[2]. In today’s market, PaaS providers offer applications such as Microsoft Azure (also IaaS), Google App Engine, and Apache Stratos.
+
+3. Infrastructure as a Service (IaaS)
+Infrastructure as a service offers a standardized way of acquiring computing capabilities on demand and over the web. Such resources include storage facilities, networks, processing power, and virtual private servers. These are charged under a “pay as you go” model where you are billed by factors such as how much storage you use or the amount of processing power you consume over a certain timespan. In this service model, customers do not need to manage infrastructure, it is up to the provider to guarantee the contracted amount of resources and availability. According to Gartner, this service model is forecasted to grow by 35.9% in 2018[2]. IaaS services offered today, include Google Cloud Platform and Amazon EC2.
+
+
+
+
