@@ -1,10 +1,47 @@
 Assignment No 1
+Hanzala Amin 
+Sp18-BSE-038
 
 What is cloud Computing?
+Cloud computing refers to the distribution of on-demand computing services, such as applications, storage, and processing power, over the internet and on a pay-per-use basis. Servers, storage, databases, networking, software, analytics, and intelligence are all available over the Internet, allowing for rapid development, more flexible resources, and cost efficency.
+With the help of cloud computing, Companies can rent access to anything from applications to storage from a cloud service provider rather than owning their own computing equipment or data centers.
+One advantage of cloud computing is that businesses can avoid the upfront costs and complexity of building and maintaining their own IT infrastructure by paying only for what they use, when they use it.
+
+
 What are the different types of Cloud?
+
+There are four main types of cloud computing: private clouds, public clouds, hybrid clouds, and community cloud. 
+Public Cloud 
+
+These feature a large quantity of available space, which means they're easy to scale. These are recommended for software development and collaborative projects. Amazon, Microsoft, and Google are just a few examples of public cloud providers. These businesses provide services as well as infrastructure that is shared by all clients. The flexibility of a public cloud, as well as its "pay as you go" structure, allows consumers to create additional capacity on demand. Scalability is a feature of public clouds.
+
+Private Cloud 
+
+Private clouds are cloud environments that are dedicated to a single end user or group and run behind that user's or group's firewall. Authorized users can access, use, and store data in the private cloud from any location, just like they can in the public cloud. The difference is that no one else can use or access those computing resources. Businesses with stricter regulations can and should use such clouds. Private clouds provide security as well as control.
+
+Hybrid Cloud
+
+A hybrid cloud is a single IT system made up of several environments linked through LANs, WANs, VPNs, and APIs. Hybrid clouds, to put it simply, combine public and private clouds. They're made to work together smoothly, with data and apps flowing freely from one platform to the other. It's the optimal solution for a company or organization that need a combination of both options, which is usually determined by industry and size.
+A hybrid cloud model's main benefit is its ability to combine the scalability of a public cloud with the security and control of a private cloud.
+
+Community Cloud
+
+Community clouds are a collaborative, multi-tenant platform used by various companies to share the same applications, although they are not as widely utilized as the other three models. Users are usually in the same industry or field, and they have similar concerns about security, compliance, and performance.
+A community cloud is essentially a private cloud that functions similarly to a public cloud. The platform is privately managed, either in a data center or on-site. Within such environment, authorized users are separated. Government agencies, healthcare organizations, financial services corporations, and other professional communities frequently employ these installations.
+
 What are the cloud service models?
 
-Explain the above questions in a single file and push them to the below Git repo: 
-https://github.com/Zeeshanarshad12/AssignmentNo1
+Cloud services are infrastructure, platforms, or software that are hosted by third-party providers and made available to users through the internet. There are three main types of cloud service models: IaaS, PaaS, and SaaS. 
 
-Good Luck !!!
+IaaS
+
+IaaS refers to a cloud service provider managing the infrastructure for actual servers, networks, virtualization, and data storage via an internet connection. The user gains access via an API or dashboard and, in essence, rents the infrastructure. The user manages things like the operating system, apps, and middleware, whereas the provider manages any hardware, networking, hard drives, data storage, and servers, as well as outages, repairs, and hardware concerns. This is the most common deployment model used by cloud storage providers.
+
+PaaS
+
+PaaS refers to the provision and management of hardware and an application-software platform by a third-party cloud service provider, but the user is responsible for the apps that run on top of the platform and the data on which the apps rely. PaaS, which is mostly used by developers and programmers, provides users with a shared cloud platform for application creation and management without the need to create and maintain the infrastructure that is often involved with the process.
+
+SaaS
+
+SaaS is a service that provides its consumers with a software application that is managed by the cloud service provider. SaaS apps are typically web applications or mobile apps that users can access using a web browser. The user is responsible for software updates, bug fixes, and other basic software maintenance, and they connect to cloud apps via a dashboard or API. SaaS also eliminates the requirement for each individual user's computer to have an app installed locally, allowing for more methods of group or team access to the software.
+
