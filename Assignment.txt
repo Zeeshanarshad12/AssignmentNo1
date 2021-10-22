@@ -1,10 +1,58 @@
 Assignment No 1
+HADIA KHALID 
+SP18-BSE-035
 
 What is cloud Computing?
 What are the different types of Cloud?
 What are the cloud service models?
-
 Explain the above questions in a single file and push them to the below Git repo: 
 https://github.com/Zeeshanarshad12/AssignmentNo1
 
 Good Luck !!!
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+Q#01: What is cloud Computing?
+
+ANS: Cloud Computing is the delivery of hosting services that are provided to client over the Internet. It is a model for enabling convenient, on demand network access to a shared pool of configurable computing resources (e.g.networks, servers, storage, applications, and services) that can be rapid provisioned and released with minimal management effort or service provider interaction. 
+
+
+Q#02: What are the different types of Cloud?
+
+ANS: There are essentially four different types of Clouds in Cloud Computing. Of these, three are the most used and are the basic types of cloud;
+
+1. Public Clouds: 
+
+Public clouds are cloud environments typically created from IT infrastructure not owned by the end user. Some of the largest public cloud providers include Alibaba Cloud, Amazon Web Services (AWS), Google Cloud, IBM Cloud, and Microsoft Azure.
+
+2. Private Clouds: 
+
+The cloud infrastructure belongs to and is operated by only one organization.It has heterogeneous infrastructure and customized policies.Some of the private clouds are openstack, OpenNebula etc.
+
+3. Hybrid Clouds: 
+
+The cloud infrastructure is a composition of two or more clouds (private, community, or public) that remain unique entities but are bound together by standardized or proprietary technology that enables data and application
+portability.
+
+4. Community Clouds: 
+
+The cloud infrastructure is shared by several organizations and supports a specific community that has shared concerns (e.g., mission, security requirements, policy, and compliance considerations).
+
+
+
+Q#3: What are the cloud service models?
+
+ANS: Cloud services are infrastructure, platforms, or software that are hosted by third-party providers and made available to users through the internet. Cloud computing is offered in three different service models which each satisfy a unique set of business requirements. These three models are known as Software as a Service (SaaS), Platform as a Service (PaaS), and Infrastructure as a Service (IaaS);
+
+1. Software as a Service (SaaS): 
+
+SaaS is a service that delivers a software application which the cloud service provider manages to its users. Software updates, bug fixes, and other general software maintenance are taken care of for the user, and they connect to the cloud applications via a dashboard or API.
+
+2. Platform as a Service (PaaS): 
+
+PaaS means the hardware and an application-software platform are provided and managed by an outside cloud service provider, but the user handles the apps running on top of the platform and the data the app relies on. PaaS gives users a shared cloud platform for application development and management without having to build and maintain the infrastructure usually associated with the process.
+
+3. Infrastructure as a Service (IaaS): 
+
+Infrastructure as a service offers a standardized way of acquiring computing capabilities on demand and over the web. Such resources include storage facilities, networks, processing power, and virtual private servers.
+
+
+
