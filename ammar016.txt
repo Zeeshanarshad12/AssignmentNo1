@@ -1,0 +1,22 @@
+Assignment No 1  
+DevOps
+
+Name: Ammar Sikandar Ranjha
+RollNo: SP18-BSE-016
+
+Q1. What is cloud Computing?
+Ans: Cloud computing is the delivery of on-demand computing services
+ -- from applications to storage and processing power -- typically over the internet and on a pay-as-you-go basis.
+ 
+Q2. What are the different types of Cloud?
+Ans: There are four different types of clouds:
+    1. Public Cloud
+    2. Private Cloud
+    3. Hybrid Cloud
+    4. Community Cloud
+
+Q3. What are the cloud service models?
+Ans: There are three cloud service models:
+IaaS: cloud-based services, pay-as-you-go for services such as storage, networking, and virtualization.
+PaaS: hardware and software tools available over the internet.
+SaaS: software that’s available via a third-party over the internet.
