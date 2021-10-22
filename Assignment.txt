@@ -1,10 +1,89 @@
 Assignment No 1
+Name: Anees Ur Rehman
+Reg# Sp18-bse-020
 
-What is cloud Computing?
-What are the different types of Cloud?
-What are the cloud service models?
 
-Explain the above questions in a single file and push them to the below Git repo: 
-https://github.com/Zeeshanarshad12/AssignmentNo1
 
-Good Luck !!!
+Q1) What is cloud Computing?
+Ans1:
+Cloud computing is an evolution of information technology and a dominant business
+model for delivering IT resources. With cloud computing, individuals and organizations 
+can gain on-demand network access to a shared pool of managed and
+scalable IT resources, such as servers, storage, and applications. Recently, academics
+as well as practitioners have paid a great deal of attention to cloud computing. We
+rely heavily on cloud services in our daily lives, e.g., for storing data, writing
+documents, managing businesses, and playing games online. Cloud computing
+also provides the infrastructure that has powered key digital trends such as mobile
+computing, the Internet of Things, big data, and artificial intelligence, thereby
+accelerating industry dynamics, disrupting existing business models, and fueling
+the digital transformation. Still, cloud computing not only provides a vast number of
+benefits and opportunities; it also comes with several challenges and concerns, e.g.,
+regarding protecting customers’ data.
+
+Benefit: One benefit of using cloud computing services is that firms can avoid the upfront
+cost and complexity of owning and maintaining their own IT infrastructure, and instead simply
+pay for what they use, when they use it.
+
+Some Examples: Consumer services like Gmail or the cloud back-up of the photos on your smartphone,
+though to the services which allow large enterprises to host all their data and run all of their
+applications in the cloud. Netflix relies on cloud computing services to run its its video streaming
+service and its other business systems too, and have a number of other organisations.
+
+Q2) What are the different types of Cloud?
+Ans2:
+There are 4 types of clouds
+1) Public Cloud:
+Some public cloud examples include those offered by Amazon, Microsoft, or Google. These companies
+provide both services and infrastructure, which are shared by all customers. Public clouds typically 
+have massive amounts of available space, which translates into easy scalability. A public cloud is 
+often recommended for software development and collaborative projects.
+2) Private Cloud:
+Private clouds usually reside behind a firewall and are utilized by a single organization. A completely 
+on-premises cloud may be the preferred solution for businesses with very tight regulatory requirements, 
+though private clouds implemented through a colocation provider are gaining in popularity. Authorized 
+users can access, utilize, and store data in the private cloud from anywhere, just like they could with 
+a public cloud. The difference is that no one else can access or utilize those computing resources. 
+3) Hybrid Cloud:
+Hybrid clouds combine public clouds with private clouds. They are designed to allow the two platforms 
+to interact seamlessly, with data and applications moving smoothly from one to the other. It’s the 
+perfect solution for a business or organization who needs a little bit of both options, usually 
+dependent upon industry and size
+4) Community Cloud:
+Although not as commonly used as the other three models, community clouds are a collaborative, 
+multi-tenant platform used by several distinct organizations to share the same applications. 
+The users are typically operating within the same industry or field and share common concerns 
+in terms of security, compliance, and performance.
+In essence, a community cloud is a private cloud that functions much like a public cloud.
+
+
+Q3) What are the cloud service models?
+Ans3:
+Cloud computing services come mainly in three types of service models: SaaS (Software as a Service), 
+IaaS (Infrastructure as a Service), and PaaS (Platform as a Service). Each of the cloud models has its 
+own set of benefits that could serve the needs of various businesses.
+The following is a brief description of the three types of cloud models and their benefits.
+1) SaaS:
+SaaS or Software as a Service is a model that gives quick access to cloud-based web applications. 
+The vendor controls the entire computing stack, which you can access using a web browser. 
+These applications run on the cloud and you can use them by a paid licensed subscription or for 
+free with limited access.
+SaaS does not require any installations or downloads in your existing computing infrastructure. 
+This eliminates the need for installing applications on each of your computers with the maintenance 
+and support taken over by the vendor.  Some known examples of SaaS include Google G Suite, 
+Microsoft Office 365, Dropbox, etc.
+2) PaaS:
+Platform as a Service or PaaS is essentially a cloud base where you can develop, test, and organize 
+the different applications for your business. Implementing PaaS simplifies the process of enterprise 
+software development. The virtual runtime environment provided by PaaS gives a favorable space for 
+developing and testing applications.
+The entire resources offered in the form of servers, storage, and networking are manageable either by 
+the company or a platform provider. Google App Engine and AWS Elastic Beanstalk are two typical examples
+of PaaS. PaaS is also subscription-based and gives you flexible pricing options depending on your 
+business requirements.
+3) IaaS:
+IaaS or Infrastructure as a Service is basically a virtual provision of computing resources over the 
+cloud. An IaaS cloud provider can give you the entire range of computing infrastructures such as storage,
+servers, networking hardware alongside maintenance and support.
+Businesses can opt for computing resources of their requirement without the need to install hardware on 
+their premises.  Amazon Web Services, Microsoft Azure, and Google Compute Engine are some of the leading
+IaaS cloud service providers.
