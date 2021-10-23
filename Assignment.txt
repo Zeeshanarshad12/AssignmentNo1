@@ -8,7 +8,7 @@ Cloud computing is the use of off-site systems to help computers store, manage, 
 
 What are the different types of Cloud?
 There are 4 main types of cloud computing: private clouds, public clouds, hybrid clouds, and multiclouds. There are also 3 main types of cloud computing services: Infrastructure-as-a-Service (IaaS), Platforms-as-a-Service (PaaS), and Software-as-a-Service (SaaS).
-
+ 
 What are the cloud service models?
 1 IaaS (IaaS means a cloud service provider manages the infrastructure for you—the actual servers, network, virtualization, and data storage—through an internet connection. The user has access through an API or dashboard, and essentially rents the infrastructure.)
 
