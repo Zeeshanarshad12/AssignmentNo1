@@ -1,10 +1,42 @@
-Assignment No 1
+SYED TALHA ASIF
+FA17-BSE-135
 
-What is cloud Computing?
-What are the different types of Cloud?
-What are the cloud service models?
 
-Explain the above questions in a single file and push them to the below Git repo: 
-https://github.com/Zeeshanarshad12/AssignmentNo1
+1) What is cloud Computing?
+Cloud computing refers to any reasonably hosted service delivered over the net. These services usually embrace servers, databases, software, networks, analytics and different computing functions which will be operated through the cloud.
+Files and programs stored within the cloud will be accessed anyplace by users on the service, eliminating the requirement to continuously be close to physical hardware. In early times, as an example, user-created documents and spreadsheets had to be saved to a physical disc drive, USB drive or disk. In absence of suitable hardware part, the files were utterly inaccessible outside the pc they originated on because of the cloud, few folks worry any longer regarding deep-fried exhausting drives or lost or corrupted USB drives. Cloud computing makes the documents accessible anywhere because data is stored on a network of hosted servers that transmit data over the net.
+The “cloud” can be treated as a phrase to  define “the internet.” Computing involves the infrastructures and systems that enable a device to run and build, deploy, or access data. In cloud computing, this implies that rather than hosting infrastructure, systems, or applications on your storage disks or within on onsite servers, you’re hosting it on virtual/online servers that hook up with your devices through secure networks. We have used Office 365 or Google Docs, so we have used cloud computing.
 
-Good Luck !!!
+2) What are the different types of Cloud?
+There are 3 main types of cloud setting whether for storage or computing that individuals and organizations use. These types of clouds include public, private, and hybrid clouds.
+
+a)PUBLIC CLOUD
+A public cloud is that the shared form of cloud. It’s where most people’s minds move to after they think about cloud technology. When speaking about public cloud, your information is kept across remote servers that are hooked together along as one function. These servers have third-party suppliers as they aren’t owned by you.
+Some major cloud service suppliers area unit Amazon, Google, and Microsoft. These firms own and manage all the hardware, software, and infrastructure needed for running the cloud. 
+The key difference in  a public cloud is that anyone will use it. All you have to do sign in with a cloud service supplier, and you may have access to the cloud. this suggests that your information uses same resources as each different client of that cloud supplier.
+
+b)PRIVATE CLOUD
+Not like public cloud a private cloud is reserved for one organization or business. There aren’t any shared resources with a personal cloud. All hardware and computer code is devoted to the owner of the cloud. 
+You can produce a private cloud with owned resource like datacenters, otherwise you also can use a third-party supplier. If you select a third-party supplier, specific hardware and software are dedicated entirely to your organization.
+Some organizations opt for a private cloud over a public cloud for greater control over the servers and improved security with more flexibility. With a private cloud, a business will customize the cloud to fulfill its specific wants. It additionally permits for additional management once it involves security as a result of resources don't seem to be shared.
+
+c)HYBRID CLOUD
+For businesses having the benefits of both private and public cloud types, a hybrid cloud environment is a good option. A hybrid cloud is combination of public clouds,personal clouds, and on-premise infrastructure. A business employing a hybrid cloud model usually uses a public cloud for basic computing tasks, whereas storing additional sensitive information on a private cloud or onsite server. Businesses will maintain their data with additional to  the benefits of high flexibility and scalability with enhanced security.
+
+3)What are the cloud service models?
+Cloud computing holds the tremendous potential of presenting varied public (shared) services counting on the cloud model you decide on – out of the four distinct models. every model extends a full new level of flexibility and power. The four major cloud service delivery models include SaaS, UCaaS, PaaS and IaaS.  
+
+a)Infrastructure as a Service (IaaS)
+This is the foremost common service model of cloud computing because it offers the basic infrastructure of virtual servers, network, in different OS and information storage drives. It provides, reliability, flexibility and scalability and quantifiability that a lot of businesses request with the cloud, and examinates the requirement for hardware within the workplace. This makes it ideal for little and medium sized organizations searching for an economical IT resolution to support business growth. IaaS could be a totally outsourced pay-for-use service and is available as a public, personal or hybrid infrastructure.
+
+b)Platform as a Service (PaaS)
+This is wherever cloud computing suppliers deploy the infrastructure and software package framework, however businesses will develop and run their own applications. Web applications are often created quickly and simply via PaaS, and therefore the service is versatile and robust enough to support them. PaaS solutions are ascendable and ideal for business environments wherever multiple developers are performing on one project .It is also convenient for situations where an existing data source (such as CRM tool) needs to be leveraged
+
+c)Software as a Service (SaaS)
+Software-as-a-service (SaaS) presents a comprehensive product that's run and administered by a cloud service provider/vendor. This cloud computing resolution involves the distribution  of software over the net to various businesses who pay via subscription or a pay-per-use model. It's a valuable tool for CRM and for applications that require loads of internet or mobile access – like mobile sales management software package. SaaS is managed from a central location therefore businesses don’t ought to worry regarding maintaining it themselves, and is good for short-run projects
+
+d)Unified Communications-as-a-Service (UCaaS)
+Unified communications-as-a-service (UCaaS) is trending up amid the present crisis as this service model presents communications continuity and remote collaboration services to users, worldwide, via the cloud network. Moreover, this service model provides advanced security and reliability, sanctioning the remote force to figure seamlessly in an exceedingly secure, virtualized cloud setting.
+UCaaS model not only allows the mobile workforce to connect and interact over phone/video calls but also allows them to share files, documents or resources through the cloud infrastructure for efficient workflows.
+
+
