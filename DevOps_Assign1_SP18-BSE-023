@@ -1,0 +1,50 @@
+					     
+					    Assignment No 01
+
+					Topics in S.E II(DevOps)
+
+					Submitted By: Azka Masood
+					Registration Number: SP18-BSE-023
+		 			Section: BSE-8A
+					Submitted to: Sir Zeeshan Arshad
+
+Question 1: What is cloud computing?
+
+Answer: Cloud computing is the delivery of hosting services that are provided to a client over the Internet. Cloud 
+	computing is a model for enabling convenient, on-demand network access to a shared pool of configurable computing 
+	resources (e.g., networks, servers, storage, applications, and services) that can be rapidly provisioned and released 
+	with minimal management effort or service provider interaction.
+
+Question 2: What are the different types of cloud?
+
+Answer: There are four different types of cloud:
+	1. Public Cloud:
+		Public clouds are cloud environments typically created from IT infrastructure not owned by the end user. 
+		Some of the largest public cloud providers include Amazon Web Services (AWS), Google Cloud, IBM Cloud,
+		and Microsoft Azure.
+	2. Private Cloud:
+		Private clouds are loosely defined as cloud environments solely dedicated to a single end user or group. 
+		All clouds become private clouds when the underlying IT infrastructure is dedicated to a single customer 
+		with completely isolated access
+	3. Community Cloud:
+		The cloud infrastructure is shared by several organizations and supports a specific community that has 
+		shared concerns (e.g., mission, security requirements, policy, and compliance considerations).
+	4. Hybrid Cloud:
+		Hybrid cloud combine public clouds with private clouds to allow the two platforms to interact seamlessly. 
+		Recommended for businesses balancing big data analutics with strict data privacy regulations.
+
+Question 3: What are the cloud service models?
+
+Answer: Cloud services are infrastructure, platforms, or software that are hosted by third-party providers and made 
+	available to users through the internet. There are 3 main types of as-a-Service solutions: IaaS, PaaS, and SaaS.
+	1. Infrastructure as a Service (IaaS):
+		IaaS means a cloud service provider manages the infrastructure for you—the actual servers, network, 
+		virtualization, and data storage—through an internet connection.
+	2. Platform as a Service (PaaS):
+		PaaS means the hardware and an application-software platform are provided and managed by an outside 
+		cloud service provider, but the user handles the apps running on top of the platform and the data the app 
+		relies on.
+	3. Software as a Service (SaaS):
+		Software-as-a-service (SaaS) is a method for delivering on-demand software applications through Cloud on a 
+		subscription basis. A CSP takes care of managing the Cloud infrastructure and offers SaaS applications over 
+		the internet to a user that are accessible through a web browser.
