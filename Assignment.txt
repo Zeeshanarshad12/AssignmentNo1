@@ -1,10 +1,45 @@
-Assignment No 1
+Assignment 1 
 
-What is cloud Computing?
-What are the different types of Cloud?
-What are the cloud service models?
+Q1 What is meant by cloud computing?
 
-Explain the above questions in a single file and push them to the below Git repo: 
-https://github.com/Zeeshanarshad12/AssignmentNo1
+Cloud computing is a technology that uses the internet for storing and managing data on remote servers, and then access data via the internet.so by using this System user can work remotely as they do not own Physical Infrastructure. 
+It is very cost effective Services for Enterprises.
+ Q2 Types of Cloud Computing
+There are Four Types of Cloud Computing
+Public clouds
+Public Clouds are cloud environments typically created from IT infrastructure not owned by the end user. Some of the largest public cloud providers include Alibaba Cloud, Amazon Web Services (AWS), Google Cloud, IBM Cloud, and Microsoft Azure
+Private clouds
+Private Clouds are loosely defined as cloud environments solely dedicated to a single end user or group, where the environment usually runs behind that user or group's firewall. All clouds become private clouds when the underlying IT infrastructure is dedicated to a single customer with completely isolated access.
 
-Good Luck !!!
+Hybrid clouds
+A hybrid cloud is a seemingly single IT environment created from multiple environments connected through local area networks (LANs), wide area networks (WANs), virtual private networks (VPNs), and/or APIs
+
+Multiclouds
+Multi Cloud are a cloud approach made up of more than 1 cloud service, from more than 1 cloud vendor—public or private. All hybrid clouds are Multiclouds, but not all Multiclouds are hybrid clouds
+
+
+Q3  Cloud Service Model
+
+There are three Cloud Service Model :
+1. SaaS
+SaaS or Software as a Service is a model that gives quick access to cloud-based web applications. The vendor controls the entire computing stack, which you can access using a web browser. These applications run on the cloud and you can use them by a paid licensed subscription or for free with limited access.
+2. IaaS
+IaaS or Infrastructure as a Service is basically a virtual provision of computing resources over the cloud. An IaaS cloud provider can give you the entire range of computing infrastructures such as storage, servers, networking hardware alongside maintenance and support
+
+
+3. PaaS
+Platform as a Service or PaaS is essentially a cloud base where you can develop, test, and organize the different applications for your business. Implementing PaaS simplifies the process of enterprise software development. The virtual runtime environment provided by PaaS gives a favorable space for developing and testing applications.
+
+
+
+
+
+
+
+
+
+	
+
+
+
+
