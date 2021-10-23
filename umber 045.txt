@@ -1,0 +1,98 @@
+Umber Zahid
+Sp18-bse-045
+
+Question 1: What is cloud computing?
+
+cloud computing is the delivery of computing services including servers, storage, databases, networking, software,
+ analytics, and intelligence over the Internet to offer faster innovation, flexible resources, and economies of 
+ scale.
+
+Categories:
+Cloud Computing can be divided into three main categories:
+1.	Infrastructure as a service (IaaS)
+2.	Platform as a service (PaaS)
+3.	Software as a service (SaaS)
+A cloud can be Public or Private:
+Private or public, the goal of cloud computing is to provide easy, scalable access to computing resources and IT
+ services.
+
+Private cloud:
+A private cloud is a proprietary network or a data center that supplies hosted services to a limited number of 
+people, with certain access and permissions settings.
+
+Public cloud:
+A public cloud sells services to anyone on the internet.
+
+Working:
+Cloud computing works by allowing client devices to access data over the internet, from remote servers, databases
+and computers.An internet network connection links the front end (includes the accessing client device, browser,
+network and cloud software applications) with the back end, which consists of databases, servers and computers). 
+The back end functions as a repository, storing data that is accessed by the front end.Communications between the
+front and back ends are managed by a central server. The central server relies on protocols to facilitate the 
+exchange of data. The central server uses both software and middleware to manage connectivity between different
+client devices and cloud servers. Typically, there will be a dedicated server for each individual application.
+
+
+Question 2: What are the different types of Cloud?
+
+There are four main categories of cloud computing are:
+Public Cloud, Private cloud, Hybrid cloud, Community cloud
+
+1.	Public Cloud:
+Some public cloud examples include those offered by Amazon, Microsoft, or Google. These companies provide both 
+services and infrastructure, which are shared by all customers.Public clouds typically have massive amounts of 
+available space, which translates into easy scalability. A public
+cloud is often recommended for software development and collaborative projects. Companies can design their 
+applications to be portable, so that a project that’s tested in the public cloud can be moved to the private 
+cloud for production.
+
+2.	Private Cloud
+Private clouds usually reside behind a firewall and are utilized by a single organization. Authorized users can 
+access, utilize, and store data in the private cloud from anywhere, just like they could with a public cloud. The
+ difference is that no one else can access or utilize those computing resources
+
+3.	Hybrid Cloud
+Hybrid clouds combine public clouds with private clouds. They are designed to allow the two platforms to interact
+seamlessly, with data and applications moving smoothly from one to the other. It’s the perfect solution for a 
+business or organization who needs a little bit of both options, usually dependent upon industry and size.
+There are two commonly used types of hybrid cloud architecture. Cloudbursting uses a private cloud as its primary
+cloud, storing data and housing proprietary applications in a secure environment. When service demands increase, 
+however, the private cloud’s infrastructure may not have the capacity to keep up. That’s where the public cloud 
+comes in.The second type of hybrid cloud model also runs most applications and houses data in a private cloud 
+environment, but outsources non-critical applications to a public cloud provider.
+
+4.	Community Cloud
+Although not as commonly used as the other three models, community clouds are a collaborative, multi-tenant 
+platform used by several distinct organizations to share the same applications. The users are typically operating 
+within the same industry or field and share common concerns in terms of security, compliance, and performance.
+In essence, a community cloud is a private cloud that functions much like a public cloud. The platform itself is 
+managed privately, either in a data center or on-premises. Authorized users are then segmented within that 
+environment. These deployments are commonly used by government agencies, healthcare organizations, financial 
+services firms, and other professional communities.
+
+Question 3: What are the cloud service models?
+
+The three models are known as Software as a Service (SaaS), Platform as a Service (PaaS), and Infrastructure as 
+a Service (IaaS).
+
+1.	Software as a Service (SaaS):
+Software as a Service offers applications that are accessed over the web and are not managed by your company, 
+but by the software provider. This relieves your organization from the constant pressure of software maintenance,
+ infrastructure management, network security, data availability, and all the other operational issues involved 
+ with keeping applications up and running. 
+
+2.	Platform as a Service (PaaS):
+Platform as a Service is halfway between Infrastructure as a Service (IaaS) and Software as a Service (SaaS). 
+It offers access to a cloud-based environment in which users can build and deliver applications without the need 
+of installing and working with IDEs (Integrated Development Environments), which are often very expensive. 
+Additionally, users can often customize the features they want included with their subscription.
+
+3.	Infrastructure as a Service (IaaS):
+Infrastructure as a service offers a standardized way of acquiring computing capabilities on demand and over 
+the web. Such resources include storage facilities, networks, processing power, and virtual private servers. 
+In this service model, customers do not need to manage infrastructure, it is up to the provider to guarantee 
+the contracted amount of resources and availability.
+
+
+
+
