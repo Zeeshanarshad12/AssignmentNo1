@@ -1,5 +1,5 @@
 
-//Name:NOMANKHAN  Reg:SP18-BSE-153
+//Name:NOMANKHAN  Registraion:SP18-BSE-153
 /////////////////////////////////////
 Question1: What is cloud Computing?
 Answer: Cloud computing is on-demand access, via the internet, to computing resources applications, servers (physical servers and virtual servers), data storage, development tools, networking capabilities, and more hosted at a remote data center managed by a cloud services provider (or CSP). The CSP makes these resources available for a monthly subscription fee or bills them according to usage.
