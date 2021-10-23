@@ -1,0 +1,28 @@
+Assignment No 1
+
+Q1) What is cloud Computing?
+Cloud computing is the delivery of different services through the Internet., storage, databases, networking,
+ software, analytics, and intelligence—over the Internet (“the cloud”) to offer flexible resources, and economies of scale.
+ You typically pay only for cloud services you use, helping you lower your operating costs,
+ run your infrastructure more efficiently, and scale as your business needs change.
+
+
+Q2) What are the different types of Cloud?
+Mainly 10 types of Cloud:
+1) Altocumulus.
+2) Altostratus.
+3) Cirrocumulus.
+4) Cirrostratus.
+5) Cirrus.
+6) Cumulonimbus.
+7) Cumulus.
+8) Nimbostratus.
+9) Stratocumulus
+10) Stratus
+What are the cloud service models?
+Three models which are 1) Software as a Service (SaaS), 2) Platform as a Service (PaaS), and 3) Infrastructure as a 
+ Service (IaaS).
+Explain the above questions in a single file and push them to the below Git repo: 
+https://github.com/Zeeshanarshad12/AssignmentNo1
+
+Good Luck !!!
