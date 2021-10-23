@@ -1,8 +1,28 @@
 Assignment No 1
 
+Michal John;
+SP18-BSE-090;
+
 What is cloud Computing?
+Ans: Cloud computing is the delivery of computing services—including servers,
+storage, databases, networking, software, analytics, and intelligence—over
+the Internet (“the cloud”) to offer faster innovation, flexible resources,
+and economies of scale. You typically pay only for cloud services you use, helping
+lower your operating costs, run your infrastructure more efficiently and scale as your business needs change.
+
 What are the different types of Cloud?
+Ans: There are four different types of clouds:
+    1. Public Cloud
+    2. Private Cloud
+    3. Hybrid Cloud
+    4. Community Cloud
+
+
 What are the cloud service models?
+Ans: There are three cloud service models:
+    1. Saas
+    2. IaaS
+    3. Paas
 
 Explain the above questions in a single file and push them to the below Git repo: 
 https://github.com/Zeeshanarshad12/AssignmentNo1
