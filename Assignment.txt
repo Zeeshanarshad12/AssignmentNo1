@@ -1,10 +1,17 @@
+NAME: AHMED ASHRAF
+REG NO: SP18-BSE-009 
+
 Assignment No 1
 
 What is cloud Computing?
+Cloud computing is the use of off-site systems to help computers store, manage, process, and/or communicate information. These off-site systems are hosted on the cloud (or the internet) instead of on your computer or other local storage. They can encompass anything from email servers to software programs, data storage, or even increasing your computer’s processing powe
+
 What are the different types of Cloud?
+There are 4 main types of cloud computing: private clouds, public clouds, hybrid clouds, and multiclouds. There are also 3 main types of cloud computing services: Infrastructure-as-a-Service (IaaS), Platforms-as-a-Service (PaaS), and Software-as-a-Service (SaaS).
+
 What are the cloud service models?
+1 IaaS (IaaS means a cloud service provider manages the infrastructure for you—the actual servers, network, virtualization, and data storage—through an internet connection. The user has access through an API or dashboard, and essentially rents the infrastructure.)
 
-Explain the above questions in a single file and push them to the below Git repo: 
-https://github.com/Zeeshanarshad12/AssignmentNo1
-
-Good Luck !!!
+2 PaaS (PaaS means the hardware and an application-software platform are provided and managed by an outside cloud service provider, but the user handles the apps running on top of the platform and the data the app relies on.)
+ 
+3 SaaS (SaaS is a service that delivers a software application—which the cloud service provider manages—to its users. Typically, SaaS apps are web applications or mobile apps that users can access via a web browser.)
