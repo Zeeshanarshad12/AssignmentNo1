@@ -1,10 +1,39 @@
 Assignment No 1
 
-What is cloud Computing?
-What are the different types of Cloud?
-What are the cloud service models?
+	What is cloud Computing?
+Cloud computing is a model for providing on-demand network access to a shared pool of configurable computer resources (for example, servers, storage, applications, and networks services) that can be provisioned quickly and released with little or no effort on the part of management or service connection with the service provider.
+How does it work?
+Companies can rent access to anything from applications to storage from a cloud service provider rather than owning their own computing equipment or data centers.
+One advantage of cloud computing is that businesses can avoid the upfront costs and complexity of building and maintaining their own IT infrastructure by paying only for what they use, when they use it.
+As a result, cloud computing service providers can realize enormous economies of scale by providing the same services to a diverse set of consumers.
+Examples:
+A large number of services rely on cloud computing. Consumer services such as Gmail and cloud backup of your smartphone images are examples, as are services that allow major organizations to host all of their data and run all of their programmes in the cloud. Netflix, like a number of other companies, uses cloud computing to handle its video streaming service as well as its other business operations.
 
-Explain the above questions in a single file and push them to the below Git repo: 
-https://github.com/Zeeshanarshad12/AssignmentNo1
+	What are the different types of cloud?
+Not all clouds are created equal, and not every sort of cloud computing is appropriate for every situation. A variety of models, varieties, and services have evolved to assist you find the best option for your needs.
+To begin, you must decide on the type of cloud deployment, or cloud computing architecture, that will be used to implement your cloud services. Cloud services can be deployed in one of three ways: public cloud, private cloud, or hybrid cloud.
+1.	Public Cloud: Third-party cloud service providers own and run public clouds, which supply computing resources such as servers and storage over the Internet. A public cloud, such as Microsoft Azure, is an example. The cloud provider owns and manages all hardware, software, and other supporting infrastructure in a public cloud. A web browser is used to access these services and manage your account.
 
-Good Luck !!!
+2.	Private Cloud: A private cloud is a collection of cloud computing resources used solely by one company or organization. A private cloud can be physically located on-site at a company's datacenter. Some businesses also pay for their private clouds to be hosted by third-party service providers. The services and infrastructure of a private cloud are maintained on a private network.
+
+3.	Community Cloud: - A cloud infrastructure that is shared by a number of enterprises that serves a specific community with common problems (e.g., mission, security requirements, policy, and compliance considerations).
+
+4.	Hybrid Cloud: Public and private clouds are combined in hybrid clouds, which are linked by technology that allows data and applications to be exchanged between them. A hybrid cloud allows your organization more flexibility, more deployment options, and helps optimize your existing infrastructure, security, and compliance by allowing data and apps to flow between private and public clouds.
+
+	What are the cloud service model?
+Types of cloud offerings: IaaS, PaaS, server less, and SaaS
+Most cloud computing offerings fall into 4 wide categories: infrastructure as a service (IaaS), platform as a service (PaaS), server less, and software program as a service (SaaS). These are every now and then known as the cloud computing "stack" due to the fact they construct on pinnacle of one another. Knowing what they're and the way they’re specific makes it less complicated to perform your enterprise goals.
+1.	Infrastructure-as-a-Service (IaaS) (IaaS)
+Cloud computing services in their most basic form. You rent IT infrastructure—servers and virtual machines (VMs), storage, networks, and operating systems—on a pay-as-you-go basis from a cloud provider using IaaS.
+
+
+
+2.	Platform-as-a-Service (PaaS) (PaaS)
+Cloud computing services that provide an on-demand environment for designing, testing, delivering, and maintaining software applications are referred to as platform as a service. PaaS was created to make it simpler for developers to construct web or mobile apps rapidly without having to worry about setting up or managing the underlying infrastructure of servers, storage, network, and databases.
+
+3.	Computing without a server
+Server less computing, which overlaps with PaaS, focuses on developing app functionality without having to constantly manage the servers and infrastructure necessary to do it. Setup, capacity planning, and server administration are all handled by the cloud provider. Server less architectures are scalable and event-driven, meaning they only use resources when a specified function or trigger happens.
+
+4.	Software as a provider (SaaS)
+Software as a provider is a way for turning in software program packages over the Internet, on call for and commonly on a subscription basis. With SaaS, cloud carriers host and control the software program utility and underlying infrastructure, and deal with any maintenance, like software program enhancements and safety patching. Users hook up with the utility over the Internet, typically with an internet browser on their phone, tablet, or PC
+
