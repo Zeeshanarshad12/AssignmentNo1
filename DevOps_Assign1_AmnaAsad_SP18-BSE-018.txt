@@ -1,0 +1,47 @@
+Topics in Software Engineering II (CSE483)
+Spring 2021
+Assignment 1
+
+Submitted by:
+Amna Asad 		SP18-BSE-018
+
+Submitted to: 
+Sir Zeeshan
+
+Section: 
+BSE-8A
+
+Question 1
+What is cloud computing?
+Solution
+Cloud computing is accessing on demand computing resources(software, storage. and even infrastructure) via the internet that can be rapidly provisioned and released with minimal management effort or service provider interaction.
+
+Question 2
+What are the different types of cloud?
+Solution
+There are 4 main types of cloud:
+❖Public cloud
+➢These clouds are owned by cloud service providers who charge for the use of cloud resources.
+➢They have a homogeneous infrastructure.
+➢The advantages include a reduced need for organizations to invest in and maintain their own on-premises IT resources; scalability to meet workload and user demands; and fewer wasted resources because customers only pay for what they use.
+➢Some well known public cloud providers include Alibaba Cloud, Amazon Web Services (AWS), Google Cloud, IBM Cloud, and Microsoft Azure.
+❖Private cloud
+➢Private cloud is dedicated to a single end user or group, where the environment usually runs behind that user or group's firewall.
+➢They have a heterogeneous infrastructure.
+➢The advantages include their high levels of utilization (e.g., through virtualization, and the size and maturity of data centers); IT customers can self-provision; Workloads are multiplexed, capacity is pooled.
+➢Some well known private cloud providers include openstack, opennebula, eucalyptus systems.
+❖Community cloud
+➢The cloud infrastructure is shared by several organizations and supports a specific community that has shared concerns (e.g., mission, security requirements, policy, and compliance considerations). 
+❖Hybrid cloud
+➢The cloud infrastructure is a composition of two or more clouds (private, community, or public) that remain unique entities but are bound together by standardized or proprietary technology that enables data and application portability.
+
+Question 3
+What are the cloud services models?
+Solution
+There are three service models of cloud computing:
+❖Infrastructure as a service (IAAS)
+➢Infrastructure as a service offers a standardized way of acquiring computing capabilities on demand and over the web. Such resources include storage facilities, networks, processing power, and virtual private servers.
+❖Platform as a service (PAAS)
+➢Platform as a Service is halfway between Infrastructure as a Service (IaaS) and Software as a Service (SaaS). It offers access to a cloud-based environment in which users can build and deliver applications without the need of installing and working with IDEs which are often very expensive.
+❖Software as a service (SAAS)
+➢Software as a Service offers applications that are accessed over the web and are not managed by your company, but by the software provider. This relieves your organization from the constant pressure of software maintenance, infrastructure management, network security, data availability, and all the other operational issues involved with keeping applications up and running.
