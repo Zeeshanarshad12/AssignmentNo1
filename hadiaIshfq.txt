@@ -1,0 +1,16 @@
+Name: Hadia Ishfaq
+Registration Number: SP18-BSE-034
+
+Question 1:
+What is cloud Computing?
+Cloud computing is the delivery of on-demand computing services 
+from applications to storage and processing power typically over the internet and on a pay-as-you-go basis.
+
+Question 2: 
+What are the different types of Cloud?
+There are 4 main types of cloud computing: private clouds, public clouds, hybrid clouds, and multiclouds.
+ 
+Question 3:
+What are the cloud service models?
+
+Cloud computing is offered in three different service models which each satisfy a unique set of business requirements. These three models are known as Software as a Service (SaaS), Platform as a Service (PaaS), and Infrastructure as a Service (IaaS).
