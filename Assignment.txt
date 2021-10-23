@@ -1,10 +1,67 @@
-Assignment No 1
+Muhammad Nadeem Khan
+FA17-BSE-089
+BSSE-8A
+DevOps
+Oct 23, 2021
 
-What is cloud Computing?
-What are the different types of Cloud?
-What are the cloud service models?
+Question 1: What is cloud computing?
 
-Explain the above questions in a single file and push them to the below Git repo: 
-https://github.com/Zeeshanarshad12/AssignmentNo1
+"Cloud computing is the delivery of hosting services that are provided to a client over the Internet."
+"Cloud computing is a model for enabling convenient, on-demand network access to a shared pool of configurable computing resources
+(e.g., networks, servers, storage, applications, and services) that can be rapidly provisioned and released with minimal management effort or service provider interaction."
 
-Good Luck !!!
+
+Question 2: What are the different types of Cloud?
+
+There are four primary cloud deployment models:
+• Public Cloud
+• Private Cloud
+• Community Cloud
+• Hybrid Cloud
+
+1. Public Cloud:
+Public clouds are owned by cloud service providers who charge for the use of cloud resources.
+Basic characteristics:
+• Homogeneous infrastructure, Common policies
+• Shared resources and multi-tenancy
+• Leased or rented infrastructure
+• Economies of scale
+Examples:
+AWS/EC2 (Amazon)
+Azure (Microsoft)
+Google Cloud Platform
+Rackspace
+
+2. Private Cloud:
+The cloud infrastructure belongs to and is operated by only one organization.
+Private clouds usually reside behind a firewall and are utilized by a single organization. Authorized users can 
+access, utilize, and store data in the private cloud from anywhere.
+Examples:
+Eucalyptus Systems
+OpenNebula
+
+3. Community Cloud:
+The cloud infrastructure is shared by several organizations and supports a specific community that has shared 
+concerns (e.g., mission, security requirements, policy, and compliance considerations).
+
+4. Hybrid Cloud:
+The cloud infrastructure is a composition of two or more clouds (private, community, or public) that remain unique 
+entities but are bound together by standardized or proprietary technology that enables data and application portability.
+
+
+Question 3: What are the cloud service models?
+There are three service models of cloud computing:
+• IaaS
+• PaaS
+• SaaS
+
+IaaS:
+Infrastructure as a Service re online services that provide high-level APIs used to dereference various low-level 
+details of underlying network infrastructure like physical computing resources, location, data partitioning, scaling, security, backup etc.
+
+PaaS:
+Platform as a Service is a cloud computing model where a third-party provider delivers hardware and software tools to users over the internet.
+
+SaaS:
+Software as a Service is a cloud computing model in which a cloud provider hosts applications and makes them available to end users over the internet.
+In this model, an independent software vendor (ISV) may contract a third-party cloud provider to host the application.
