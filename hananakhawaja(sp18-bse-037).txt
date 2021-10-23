@@ -1,0 +1,44 @@
+Assignment No 1
+hanana khawaja
+sp18-bse-037
+
+What is cloud Computing?
+Cloud computing is the use of off-site systems to help computers store, manage, process, and/or communicate information. These off-site systems are hosted on the cloud (or the internet) instead of on your computer or other local storage. They can encompass anything from email servers to software programs, data storage, or even increasing your computer’s processing power.
+The “cloud” is a term that simply means “the internet.” Computing involves the infrastructures and systems that allow a computer to run and build, deploy, or interact with information. In cloud computing, this means that instead of hosting infrastructure, systems, or applications on your hard drive or an on-site server, you’re hosting it on virtual/online servers that connect to your computer through secure networks.
+One advantage of cloud computing is that businesses can avoid the upfront costs and complexity of building and maintaining their own IT infrastructure by paying only for what they use, when they use it.
+
+What are the different types of Cloud?
+Public Cloud
+Some public cloud examples include those offered by Amazon, Microsoft, or Google. These companies provide both services and infrastructure, which are shared by all customers. Public clouds typically have massive amounts of available space, which translates into easy scalability. A public cloud is often recommended for software development and collaborative projects. Companies can design their applications to be portable, so that a project that’s tested in the public cloud can be moved to the private cloud for production. Most cloud providers package their computing resources as part of a service. Public cloud examples range from access to a completely virtualized infrastructure that provides little more than raw processing power and storage (Infrastructure as a Service, or IaaS) to specialized software programs that are easy to implement and use (Software as a Service, or SaaS).
+
+Private Cloud
+Private clouds usually reside behind a firewall and are utilized by a single organization. A completely on-premises cloud may be the preferred solution for businesses with very tight regulatory requirements, though private clouds implemented through a colocation provider are gaining in popularity. Authorized users can access, utilize, and store data in the private cloud from anywhere, just like they could with a public cloud. The difference is that no one else can access or utilize those computing resources. 
+
+Hybrid Cloud
+Simply put, hybrid clouds combine public clouds with private clouds. They are designed to allow the two platforms to interact seamlessly, with data and applications moving smoothly from one to the other. It’s the perfect solution for a business or organization who needs a little bit of both options, usually dependent upon industry and size. A hybrid cloud model's main benefit is its ability to combine the scalability of a public cloud with the security and control of a private cloud.
+
+Community Cloud
+Conceptually residing somewhere between a private cloud and a public cloud, community cloud describes a shared infrastructure that is employed by and supported by multiple companies. This shared cloud resource may be utilized by groups that have overlapping considerations, such as joint compliance requirements, noncompetitive business goals, or a need to pool high-level security resources. The physical existence of the shared cloud may reside on any member’s premises, or even on a third-party site, managing the community cloud may become complicated, due to unspecified or shifting ownership and responsibility.
+
+What are the cloud service models?
+Cloud Software as a Service (SaaS)
+•	A SaaS provider deploys software to the user on demand, commonly through a licensing model. 
+•	The provider may host the application on its own server infrastructure or use another vendor’s hardware.
+•	The application may be licensed directly to an organization, a user or group of users, or through a third party that manages multiple licenses between user organizations, such as an ASP. 
+•	The user then accesses the application through any defined and authorized Internet device, most commonly a Web browser.
+
+Cloud Platform as a Service (PaaS)
+•	PaaS is similar to SaaS, but the service is an entire application development environment, not just the use of an application
+•	A cloud-hosted virtual development platform, accessible via a Web browser
+•	PaaS solution providers deliver both the computing platform and the solution stack
+•	PaaS encapsulates a layer of software and provides it as a service that can be used to build higher-level services.
+•	Using the concept of PaaS, software developers can build Web applications without having to install the software building tools on their own computer, and then distribute or deploy their apps to the cloud easily. 
+
+Cloud Infrastructure as a Service (IaaS)
+•	IaaS describes the delivery of the computing infrastructure as a service.
+•	NIST cloud Infrastructure as a Service definition: 
+“The capability provided to the consumer is to provision processing, storage, networks, and other fundamental computing resources where the consumer is able to deploy and run arbitrary software, which can include operating systems and applications. The consumer does not manage or control the underlying cloud infrastructure but has control over operating systems, storage, deployed applications, and possibly limited control of select networking components (e.g., host firewalls).”
+
+
+
+
