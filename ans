@@ -1,0 +1,28 @@
+What is cloud Computing?
+Ans:
+Cloud computing is the delivery of different services through the Internet. 
+These resources include tools and applications like data storage, servers, databases, networking, and software.
+
+What are the different types of Cloud?
+
+1.Public clouds
+Public clouds are cloud environments typically created from IT infrastructure not owned by the end user. 
+
+2. Private clouds
+Private clouds are loosely defined as cloud environments solely dedicated to a single end user or group, where the environment usually runs behind that user or group's firewall. 
+All clouds become private clouds when the underlying IT infrastructure is dedicated to a single customer with completely isolated access.
+3. Hybrid clouds
+A hybrid cloud is a seemingly single IT environment created from multiple environments connected through local area networks (LANs), 
+wide area networks (WANs), virtual private networks (VPNs), and/or APIs.
+4. Multiclouds
+Multiclouds are a cloud approach made up of more than 1 cloud service, from more than 1 cloud vendor—public or private.
+
+What are the cloud service models?
+
+Cloud computing is offered in three different service models which each satisfy a unique set of business requirements.
+These three models are known as Software as a Service (SaaS), Platform as a Service (PaaS), and Infrastructure as a Service
+
+
+
+Ubaid Ur Rehman
+SP19-BSE-043
