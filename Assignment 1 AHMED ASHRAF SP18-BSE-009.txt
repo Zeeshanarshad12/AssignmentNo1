@@ -1,0 +1,26 @@
+SP18 BSE 009 AHMED ASHRAF
+
+Assignment No 1
+
+What is cloud Computing?
+
+Cloud computing is the on-demand availability of computer system resources, especially data storage (cloud storage) and computing power, without direct active management by the user.Large clouds often have functions distributed over multiple locations, each location being a data center. Cloud computing relies on sharing of resources to achieve coherence[clarification needed] and economies of scale, typically using a "pay-as-you-go" model which can help in reducing capital expenses but may also lead to unexpected operating expenses for unaware users.
+
+What are the different types of Cloud?
+
+1 Public clouds
+2 Private clouds
+3 Managed private clouds
+4 Dedicated clouds
+5 Hybrid clouds
+6 Multiclouds
+
+
+What are the cloud service models?
+
+1 IaaS (IaaS means a cloud service provider manages the infrastructure for you—the actual servers, network, virtualization, and data storage—through an internet connection. The user has access through an API or dashboard, and essentially rents the infrastructure.).
+
+2 PaaS (PaaS means the hardware and an application-software platform are provided and managed by an outside cloud service provider, but the user handles the apps running on top of the platform and the data the app relies on.).
+
+3 SaaS (SaaS is a service that delivers a software application—which the cloud service provider manages—to its users. Typically, SaaS apps are web applications or mobile apps that users can access via a web browser.).
+
