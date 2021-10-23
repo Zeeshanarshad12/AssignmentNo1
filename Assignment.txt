@@ -1,10 +1,102 @@
-Assignment No 1
 
-What is cloud Computing?
-What are the different types of Cloud?
+Comsats University Islamabad 
+
+DevOps
+Assignment 1
+
+Submitted by:
+Ghazal Sarvari
+(FA17-BSE-156)
+
+Submitted to:
+Mr. Zeeshan
+
+Submission Date:
+23 Oct 2021
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1. What is cloud computing?
+Cloud computing is the delivery of on-demand computing services -- from applications to storage and processing power -- 
+typically over the internet and on a pay-as-you-go basis.
+Rather than owning their own computing infrastructure or data centers, companies can rent access to anything from 
+applications to storage from a cloud service provider.
+One benefit of using cloud computing services is that firms can avoid the upfront cost and complexity of owning and maintaining 
+their own IT infrastructure, and instead simply pay for what they use when they use it.
+In turn, providers of cloud computing services can benefit from significant economies of scale by delivering the same 
+services to a wide range of customers.
+
+
+2. What are the different types of cloud?
+There are four main types of cloud computing: private clouds, public clouds, hybrid clouds, and community clouds. 
+Private Clouds
+Private clouds are loosely defined as cloud environments solely dedicated to a single end-user or group, where the environment 
+usually runs behind that user or group's firewall. All clouds become private clouds when the underlying IT infrastructure is 
+dedicated to a single customer with completely isolated access.
+But private clouds no longer have to be sourced from on-prem IT infrastructure. Organizations are now building private clouds 
+on rented, vendor-owned data centers located off-premises, which makes any location and ownership rules obsolete.
+
+Public Clouds
+Public clouds are cloud environments typically created from IT infrastructure not owned by the end-user. Some of the largest 
+public cloud providers include Alibaba Cloud, Amazon Web Services (AWS), Google Cloud, IBM Cloud, and Microsoft Azure.
+Traditional public clouds always ran off-premises, but today's public cloud providers have started offering cloud services on 
+clients’ on-premise data centers. This has made location and ownership distinctions obsolete.
+All clouds become public clouds when the environments are partitioned and redistributed to multiple tenants. Fee structures 
+aren't necessary characteristics of public clouds anymore, since some cloud providers (like the Massachusettes Open Cloud) allow tenants to use their clouds for free. The bare-metal IT infrastructure used by public cloud providers can also be abstracted and sold as IaaS, or it can be developed into a cloud platform sold as PaaS.
+
+Hybrid Clouds
+Hybrid cloud refers to mixed computing, storage, and services environment made up of on-premises infrastructure, private cloud 
+services, and a public cloud—such as Amazon Web Services (AWS) or Microsoft Azure—with orchestration among the various 
+platforms.
+
+Community Clouds
+Community Cloud is a hybrid form of private cloud. They are multi-tenant platforms that enable different organizations to work 
+on a shared platform. 
+The purpose of this concept is to allow multiple customers to work on joint projects and applications that belong to the 
+community, where it is necessary to have a centralized cloud infrastructure. In other words, Community Cloud is a distributed
+infrastructure that solves the specific issues of business sectors by integrating the services provided by different types 
+of cloud solutions.
+The communities involved in these projects, such as tenders, business organizations, and research companies, focus on similar 
+issues in their cloud interactions. Their shared interests may include concepts and policies related to security and compliance 
+considerations, and the goals of the project as well.
+Community Cloud computing facilitates its users to identify and analyze their business demands better. Community Cloud may be 
+hosted in a data center, owned by one of the tenants, or by a third-party cloud services provider and can be either on-site or 
+off-site.
+ 
+ 
 What are the cloud service models?
+Cloud services are infrastructure, platforms, or software that are hosted by third-party providers and made available to 
+users through the internet. There are three main types of cloud service models: IaaS, PaaS, and SaaS. 
 
-Explain the above questions in a single file and push them to the below Git repo: 
-https://github.com/Zeeshanarshad12/AssignmentNo1
+IaaS
+IaaS, or infrastructure as a service, is on-demand access to cloud-hosted physical and virtual servers, storage, and networking 
+- the backend IT infrastructure for running applications and workloads in the cloud. 
 
-Good Luck !!!
+PaaS
+PaaS, or platform as a service, is on-demand access to a complete, ready-to-use, cloud-hosted platform for developing, 
+running, maintaining, and managing applications.
+
+Saas
+SaaS, or software as a service, is on-demand access to ready-to-use, cloud-hosted application software.
+ 
+ 
+ 
+ 
+
+
+
