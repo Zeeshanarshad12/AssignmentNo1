@@ -1,0 +1,54 @@
+what is cloud computing?
+Answer:
+Cloud computing is is the conveyance of processing administrations—including servers, 
+stockpiling, information bases, organizing, programming, examination, and knowledge—over the Internet ("the cloud") to 
+offer quicker advancement, adaptable assets, and economies of scale. You regularly pay just for cloud administrations 
+you use, assisting you with bringing down your working expenses, run your framework all the more proficiently, and 
+scale as your business needs change.
+
+What are the different types of Cloud?
+Answer:
+there are three types of clouds that are mentuoned below:
+1. private 
+A private cloud alludes to distributed computing assets utilized solely by a solitary business or association.
+ A private cloud can be actually situated on the organization's on location datacenter. A few organizations likewise
+ pay outsider specialist co-ops to have their private cloud. A private cloud is one in which the administrations 
+and foundation are kept up with on a private organization.
+2. hybird 
+join public and private mists, bound together by innovation that permits information and applications to be divided 
+among them. By permitting information and applications to move among private and public mists, a half and half cloud 
+gives your business more noteworthy adaptability, greater arrangement choices, and advances your current framework, 
+security, and consistence.
+3. public
+are claimed and worked by an outsider cloud specialist organizations, which convey their registering assets, 
+similar to servers and capacity, over the Internet. Microsoft Azure is an illustration of a public cloud. With a public 
+cloud, all equipment, programming, and other supporting foundation is claimed and overseen by the cloud supplier. 
+You access these administrations and deal with your record utilizing an internet browser.
+
+What are the cloud service models?
+Answer:
+there are three cloud service models that are mentoned bellow:
+1. SaaS
+Programming as a Service offers applications that are gotten to over the web and are not overseen by your organization, 
+however by the product supplier. This alleviates your association from the consistent strain of programming upkeep, 
+framework the board, network security, information accessibility, and the wide range of various functional issues engaged
+ with keeping applications fully operational. SaaS charging is ordinarily founded on elements like number of clients, 
+utilization time, measure of information put away, and number of exchanges handled. This help model has the biggest piece
+ of the pie in distributed computing; as indicated by Gartner, its deals will arrive at 117 billion USD continuously 
+2021. Current applications for SaaS incorporate Field Service arrangements, framework checking arrangements, schedulers 
+and that's just the beginning.
+2. PaaS
+Stage as a Service is somewhere between Infrastructure as a Service (IaaS) and Software as a Service (SaaS). It offers 
+admittance to a cloud-based climate in which clients can construct and convey applications without the need of introducing 
+and working with IDEs (Integrated Development Environments, which are frequently pricey. Also, clients can frequently 
+modify the elements they need included with their membership. As indicated by Gartner, PaaS has the littlest piece of the 
+pie of the three assistance models, with an extended income of 27 billion USD constantly 2021. In the present market, 
+PaaS suppliers offer applications like Microsoft Azure (likewise IaaS), Google App Engine, and Apache Stratos.
+3. IaaS
+Framework as a help offers a normalized method of obtaining registering abilities on request and over the web. Such assets
+incorporate storage spaces, networks, handling power, and virtual private servers. These are charged under a "pay more 
+only as costs arise" model where you are charged by variables, for example, how much stockpiling you use or the measure 
+of handling power you devour over a certain time interval. In this assistance model, clients don't have to oversee 
+framework, it is dependent upon the supplier to ensure the contracted measure of assets and accessibility. As per Gartner,
+ this assistance model is guage to develop by 35.9% in 2018[2]. IaaS administrations offered today, incorporate Google 
+Cloud Platform and Amazon EC2.
