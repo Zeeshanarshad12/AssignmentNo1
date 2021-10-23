@@ -1,0 +1,34 @@
+Name: Abdul Rehman
+Roll No: SP18-BSE-002
+
+
+Assignment No 1
+
+What is cloud Computing?
+Cloud computing is the on-demand delivery of IT resources over the Internet with pay-as-you-go pricing. 
+Instead of buying, owning, and maintaining physical data centers and servers, you can access technology services, 
+such as computing power, storage, and databases, on an as-needed basis from a cloud provider
+
+
+What are the different types of Cloud?
+There are 4 main types of cloud computing: private clouds, public clouds, 
+hybrid clouds, and multiclouds. There are also 3 main types of cloud computing 
+services: Infrastructure-as-a-Service (IaaS), Platforms-as-a-Service (PaaS), 
+and Software-as-a-Service (SaaS).
+
+
+
+What are the cloud service models?
+Cloud computing services come mainly in three types of service models: SaaS 
+(Software as a Service), IaaS (Infrastructure as a Service), and PaaS 
+(Platform as a Service). Each of the cloud models has its own set of benefits 
+that could serve the needs of various businesses.
+
+
+
+
+
+
+
+
+
