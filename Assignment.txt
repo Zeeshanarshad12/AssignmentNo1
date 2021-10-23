@@ -1,10 +1,43 @@
-Assignment No 1
+Name: Maaz Khan
+Registration number: SP18-SBE-162
 
-What is cloud Computing?
-What are the different types of Cloud?
-What are the cloud service models?
+---------------------------------
 
-Explain the above questions in a single file and push them to the below Git repo: 
-https://github.com/Zeeshanarshad12/AssignmentNo1
+Q1: What is cloud Computing?
+Ans:
+Cloud computing is the use of off-site systems to help computers store, manage, process, and/or communicate information. These off-site systems are hosted on the cloud (or the internet) instead of on your computer or other local storage. They can encompass anything from email servers to software programs, data storage, or even increasing your computer’s processing power.
+The “cloud” is a term that simply means “the internet.” Computing involves the infrastructures and systems that allow a computer to run and build, deploy, or interact with information. In cloud computing, this means that instead of hosting infrastructure, systems, or applications on your hard drive or an on-site server, you’re hosting it on virtual/online servers that connect to your computer through secure networks.
 
-Good Luck !!!
+***************************
+
+Q2: What are the different types of Cloud?
+Ans: Types of cloud computing are discussed below:
+1)	Public clouds
+Public clouds are cloud environments typically created from IT infrastructure not owned by the end user. Some of the largest public cloud providers include Alibaba Cloud, Amazon Web Services (AWS), Google Cloud, IBM Cloud, and Microsoft Azure.
+Traditional public clouds always ran off-premises, but today's public cloud providers have started offering cloud services on clients’ on-premise data centers. This has made location and ownership distinctions obsolete.
+2)	Private clouds
+Private clouds are loosely defined as cloud environments solely dedicated to a single end user or group, where the environment usually runs behind that user or group's firewall. All clouds become private clouds when the underlying IT infrastructure is dedicated to a single customer with completely isolated access.
+But private clouds no longer have to be sourced from on-prem IT infrastructure. Organizations are now building private clouds on rented, vendor-owned data centers located off-premises, which makes any location and ownership rules obsolete.
+3)	Hybrid clouds
+A hybrid cloud is a seemingly single IT environment created from multiple environments connected through local area networks (LANs), wide area networks (WANs), virtual private networks (VPNs), and/or APIs.
+The characteristics of hybrid clouds are complex and the requirements can differ, depending on whom you ask. For example, a hybrid cloud may need to include:
+At least 1 private cloud and at least 1 public cloud
+2 or more private clouds
+2 or more public clouds
+A bare-metal or virtual environment connected to at least 1 public cloud or private cloud
+
+***************************
+
+Q3: What are the cloud service models?
+Ans:
+Cloud service models are discussed below:
+1)	Infrastructure as a Service (IaaS) 
+The lower end of managed cloud computing services where hardware resources are provided by an external provider and managed for you. IaaS provides users access to computing resources such as networking, processing power and data storage capacity.  
+
+2)	Platform as a Service (PaaS) 
+This cloud computing service is an advanced version of IaaS. Apart from just providing the IT infrastructure, PaaS also provides the computing platform and solution stack as a service. PaaS is a cloud computing service that provides developers with a framework that can be used for building custom applications. Platform as a Service lets software developers build custom applications online without having to worry about data storage, data serving, and management.
+3)	Software as a Service (SaaS)  
+A special cloud computing service that incorporates both IaaS and PaaS service offerings. SaaS is a cloud computing service that provides application-level services tailored to diverse business needs such as business analytics, CRM, or marketing automation. SaaS is a cloud computing service offering that provides web-based software applications to customers on-demand. SaaS providers host a fully-functional application through a browser-based interface and make it accessible to the users through the Internet.
+
+
+***************************
