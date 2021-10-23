@@ -1,10 +1,39 @@
 Assignment No 1
 
-What is cloud Computing?
-What are the different types of Cloud?
-What are the cloud service models?
+Abdur-Rehman    SP18-BSE-004
 
-Explain the above questions in a single file and push them to the below Git repo: 
-https://github.com/Zeeshanarshad12/AssignmentNo1
+Q-1. What is cloud Computing?
 
-Good Luck !!!
+Ans. Cloud computing is the delivery of computing services—including servers, storage, databases, networking, software, analytics, and intelligence—over the Internet (“the cloud”) to offer faster innovation, flexible resources, and economies of scale. You typically pay only for cloud services you use, helping you lower your operating costs, run your infrastructure more efficiently, and scale as your business needs change.
+
+
+Q-2. What are the different types of Cloud?
+
+Ans. There are 4 main types of cloud computing: 
+    1 - Private clouds: 
+        Private clouds are loosely defined as cloud environments solely dedicated to a single end user or group, where the environment usually runs behind that user or group's firewall. All clouds become private clouds when the underlying IT infrastructure is dedicated to a single customer with completely isolated access.
+        But private clouds no longer have to be sourced from on-prem IT infrastructure. Organizations are now building private clouds on rented, vendor-owned data centers located off-premises, which makes any location and ownership rules obsolete.
+        
+    2 - Public clouds: 
+        Some public cloud examples include Amazon, Microsoft, or Google. These companies provide both services and infrastructure, which are shared by all customers. A public cloud is often recommended for software development and collaborative projects. Companies can design their applications to be portable, so that a project that’s tested in the public cloud can be moved to the private cloud for production. Most cloud providers package their computing resources as part of a service.
+
+    3 - Hybrid clouds:
+        Simply put, hybrid clouds combine public clouds with private clouds. They are designed to allow the two platforms to interact seamlessly, with data and applications moving smoothly from one to the other. It’s the perfect solution for a business or organization who needs a little bit of both options, usually dependent upon industry and size.
+
+    4 - Community clouds.
+        Although not as commonly used as the other three models, community clouds are a collaborative, multi-tenant platform used by several distinct organizations to share the same applications. The users are typically operating within the same industry or field and share common concerns in terms of security, compliance, and performance.
+
+        In essence, a community cloud is a private cloud that functions much like a public cloud. The platform itself is managed privately, either in a data center or on-premises. Authorized users are then segmented within that environment. These deployments are commonly used by government agencies, healthcare organizations, financial services firms, and other professional communities.
+
+Q-3. What are the cloud service models?
+
+Ans. There are also 3 main types of cloud computing services: 
+    1 - Infrastructure-as-a-Service (IaaS):
+        Infrastructure as a service offers a standardized way of acquiring computing capabilities on demand and over the web. Such resources include storage facilities, networks, processing power, and virtual private servers. These are charged under a “pay as you go” model where you are billed by factors such as how much storage you use or the amount of processing power you consume over a certain timespan. In this service model, customers do not need to manage infrastructure, it is up to the provider to guarantee the contracted amount of resources and availability. According to Gartner, this service model is forecasted to grow by 35.9% in 2018[2]. IaaS services offered today, include Google Cloud Platform and Amazon EC2.
+
+
+    2 - Platforms-as-a-Service (PaaS):
+        Platform as a Service is halfway between Infrastructure as a Service (IaaS) and Software as a Service (SaaS). It offers access to a cloud-based environment in which users can build and deliver applications without the need of installing and working with IDEs (Integrated Development Environments, which are often very expensive. Additionally, users can often customize the features they want included with their subscription.
+
+    3 - Software-as-a-Service (SaaS):
+        Software as a Service offers applications that are accessed over the web and are not managed by your company, but by the software provider. This relieves your organization from the constant pressure of software maintenance, infrastructure management, network security, data availability, and all the other operational issues involved with keeping applications up and running. SaaS billing is typically based on factors such as number of users, usage time, amount of data stored, and number of transactions processed. This service model has the largest market share in cloud computing; according to Gartner, its sales will reach 117 billion USD by the year 2021
