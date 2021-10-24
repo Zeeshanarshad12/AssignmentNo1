@@ -1,0 +1,83 @@
+Assignment 1
+Zahra Hasan
+Sp18-bse-058
+
+
+Q1. What is cloud computing?
+Ans. Cloud computing is on-demand access, via the internet, to computing resources—applications, servers (physical servers and virtual servers), 
+data storage, development tools, networking capabilities, and more—hosted at a remote data center managed by a cloud services provider (or CSP). 
+The CSP makes these resources available for a monthly subscription fee or bills them according to usage.
+Compared to traditional on-premises IT, and depending on the cloud services you select, cloud computing helps do the following:
+
+i) Lower IT costs
+ii) Improve agility and time-to-value
+iii) Scale more easily and cost-effectively
+
+
+Q2. What are the different types of Cloud?
+Ans. There are 4 main types of cloud computing: 
+
+i) Private clouds:
+Private clouds are loosely defined as cloud environments solely dedicated to a single end user or group, where the environment usually runs behind that user or 
+group's firewall. All clouds become private clouds when the underlying IT infrastructure is dedicated to a single customer with completely isolated access.
+But private clouds no longer have to be sourced from on-prem IT infrastructure. Organizations are now building private clouds on rented, vendor-owned data 
+centers located off-premises, which makes any location and ownership rules obsolete. This has also led to a number of private cloud subtypes, including:
+1.Managed private clouds
+2.Dedicated clouds
+
+ii) Public clouds:
+Public clouds are cloud environments typically created from IT infrastructure not owned by the end user. Some of the largest public cloud providers include 
+Alibaba Cloud, Amazon Web Services (AWS), Google Cloud, IBM Cloud, and Microsoft Azure. Traditional public clouds always ran off-premises, but today's public 
+cloud providers have started offering cloud services on clients’ on-premise data centers. This has made location and ownership distinctions obsolete.
+
+iii) Hybrid clouds:
+A hybrid cloud is a seemingly single IT environment created from multiple environments connected through local area networks (LANs), wide area networks (WANs), 
+virtual private networks (VPNs), and/or APIs. The characteristics of hybrid clouds are complex and the requirements can differ, depending on whom you ask. 
+For example, a hybrid cloud may need to include:
+
+1.At least 1 private cloud and at least 1 public cloud
+2.2 or more private clouds
+3.2 or more public clouds
+4.A bare-metal or virtual environment connected to at least 1 public cloud or private cloud
+
+But every IT system becomes a hybrid cloud when apps can move in and out of multiple separate—yet connected—environments. At least a few of those environments 
+need to be sourced from consolidated IT resources that can scale on demand. And all those environments need to be managed as a single environment using an 
+integrated management and orchestration platform.
+
+iv) Multiclouds:
+Multiclouds are a cloud approach made up of more than 1 cloud service, from more than 1 cloud vendor—public or private. All hybrid clouds are multiclouds, 
+but not all multiclouds are hybrid clouds. Multiclouds become hybrid clouds when multiple clouds are connected by some form of integration or orchestration.
+A multicloud environment might exist on purpose (to better control sensitive data or as redundant storage space for improved disaster recovery) or by accident 
+(usually the result of shadow IT). Either way, having multiple clouds is becoming more common across enterprises that seek to improve security and performance 
+through an expanded portfolio of environments.
+
+
+Q3. What are the cloud service models?
+Ans. There are three cloud service models. IaaS (Infrastructure-as-a-Service), PaaS (Platform-as-a-Service) , and SaaS (Software-as-a-Service) are the three 
+most common models of cloud services, and it’s not uncommon for an organization to use all three.
+
+i) SaaS (Software-as-a-Service):
+SaaS—also known as cloud-based software or cloud applications—is application software that’s hosted in the cloud and that you access and use via a web browser, 
+a dedicated desktop client, or an API that integrates with your desktop or mobile operating system. In most cases, SaaS users pay a monthly or annual 
+subscription fee; some may offer ‘pay-as-you-go’ pricing based on your actual usage. 
+In addition to the cost savings, time-to-value, and scalability benefits of cloud, SaaS offers the following:
+-Automatic upgrades
+-Protection from data loss
+
+ii) PaaS (Platform-as-a-Service):
+PaaS provides software developers with on-demand platform—hardware, complete software stack, infrastructure, and even development tools—for running, developing, 
+and managing applications without the cost, complexity, and inflexibility of maintaining that platform on-premises. With PaaS, the cloud provider hosts 
+everything—servers, networks, storage, operating system software, middleware, databases—at their data center. Developers simply pick from a menu to ‘spin up’ 
+servers and environments they need to run, build, test, deploy, maintain, update, and scale applications. Today, PaaS is often built around containers, a 
+virtualized compute model one step removed from virtual servers. Containers virtualize the operating system, enabling developers to package the application with 
+only the operating system services it needs to run on any platform, without modification and without need for middleware.
+Red Hat OpenShift is a popular PaaS built around Docker containers and Kubernetes, an open source container orchestration solution that automates deployment, 
+scaling, load balancing, and more for container-based applications.
+
+iii) IaaS (Infrastructure-as-a-Service):
+IaaS provides on-demand access to fundamental computing resources–physical and virtual servers, networking, and storage—over the internet on a pay-as-you-go basis. 
+IaaS enables end users to scale and shrink resources on an as-needed basis, reducing the need for high, up-front capital expenditures or unnecessary on-premises 
+or ‘owned’ infrastructure and for overbuying resources to accommodate periodic spikes in usage. In contrast to SaaS and PaaS (and even newer PaaS computing models 
+such as containers and serverless), IaaS provides the users with the lowest-level control of computing resources in the cloud. IaaS was the most popular cloud 
+computing model when it emerged in the early 2010s. While it remains the cloud model for many types of workloads, use of SaaS and PaaS is growing at a much 
+faster rate.
