@@ -1,0 +1,29 @@
+Name & registration number: Ali Asghar(SP18-BSE-011)
+1.	What is cloud Computing?
+Cloud computing is the delivery of computing services—including servers, storage, databases, networking, software, analytics, and intelligence—over the Internet (“the cloud”) to offer faster innovation, flexible resources, and economies of scale. Cloud services are controlled and monitored by the cloud provider through a pay-per-use business model. An ideal cloud computing platform is Efficient in its use of resources, Scalable, and Elastic.
+
+2.	What are the different types of Cloud?
+There are 4 main types of cloud computing: 
+1.	Private clouds:
+The cloud infrastructure belongs to and is operated by only one organization. Example: Open Nebula
+2.	Public clouds
+Public clouds are owned by cloud service providers who charge for the use of cloud resources. Example: Azure (Microsoft)
+3.	Hybrid clouds:
+The cloud infrastructure is a composition of two or more clouds (private, community, or public) that remain unique entities but are bound together by standardized or proprietary technology that enables data and application portability.
+4.	Multi clouds:
+The cloud infrastructure is shared by several organizations and supports a specific community that has shared concerns
+
+
+3.	What are the cloud service models?
+There are three cloud service models:
+1.	Infrastructure as a Service (IaaS)
+Infrastructure as a service offers a standardized way of acquiring computing capabilities on demand and over the web. Such resources include storage facilities, networks, processing power, and virtual private servers.
+2.	Platform as a Service (PaaS)
+Platform as a Service is halfway between Infrastructure as a Service (IaaS) and Software as a Service (SaaS). It offers access to a cloud-based environment in which users can build and deliver applications without the need of installing and working with IDEs
+3.	Software as a Service (SaaS)
+Software as a Service offers applications that are accessed over the web and are not managed by your company, but by the software provider.
+
+Explain the above questions in a single file and push them to the below Git repo: 
+https://github.com/Zeeshanarshad12/AssignmentNo1
+
+Good Luck !!!
