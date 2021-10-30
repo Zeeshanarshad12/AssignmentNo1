@@ -1,10 +1,84 @@
-Assignment No 1
+DeveOps Assignment no 01
 
-What is cloud Computing?
+Name: Erum
+
+Registration Number: SP18-BSE-028
+
+
+Question no 01
+What is cloud computing?
+Answer:
+
+Cloud Computing refers to manipulating, configuring and accessing the application online.
+It refers to online data storage, infrastructure and applications.
+
+Cloud computing is both a combination of software and hardware-based computing resources delivered as a network service. With Cloud Computing users can access database resources via internet from anywhere for as long as they need without worrying any maintenance or management of actual resources.
+
+Question no 02
 What are the different types of Cloud?
-What are the cloud service models?
+Answer:
 
-Explain the above questions in a single file and push them to the below Git repo: 
-https://github.com/Zeeshanarshad12/AssignmentNo1
+There are Four different kinds of Cloud:
+-Public Cloud.
+-Private Cloud.
+-Community Cloud.
+-Hybrid Cloud.
 
-Good Luck !!!
+Public Cloud: Public Cloud allows systems and services to be easily accessible to the general public. Public cloud may be less secure because of its openness e.g. e-mail.
+
+Private Cloud: The Private Cloud allows systems and services to be accessible within an organization. It offers increased security because of its private nature.
+Community Cloud: The Community Cloud allows systems and services to be accessible by group of organizations.
+Hybrid Cloud: The Hybrid cloud is mixture of public and private cloud. However, the critical activities are performed using private cloud while the non-critical activities are performed using public cloud.
+
+Question no 03 
+What are the Cloud Service Models?
+Answer:
+There are Three types of Cloud Service Models
+1.	Infrastructure as a Service (Iaas).
+2.	Platform as a Service (Paas).
+3.	Software as a Service (Saas).
+
+Infrastructure as a Service (Iaas):
+Iaas is most basic level of Service. Iaas Provides access to fundamental infrastructure such as physical machines, virtual machines , virtual storage etc.
+Apart from these resources, the Iaas also offers:
+-Virtual machine disk storage.
+-Virtual local area network.
+-IP addresses.
+
+Benefits:
+-Full Control of the computing resources through administrative access to VMs.
+-Portability, Interoperability with legacy Applications.
+
+Issues:
+-Data Erase Practices.
+-Compatibility with legacy security vulnerabilities.
+
+Platform as a Service (Paas).
+Paas provides the runtime environment for applications, development and deployment tools etc. Paas provides all of the facilities required to support the complete life cycle of building and delivering web applications and services entirely from the internet.
+Benefits:
+-Lower administrative overhead.
+-Lower total cost of ownership.
+Issues:
+-Lack of Portability between Paas clouds.
+-Event based Processor scheduling.
+
+Software as a Service (Saas):
+Saas model allows to use software applications as a service to end users. Software that is deployed on a hosted service and is accessible via internet. There are several Saas applications, some of them are listed below:
+-Billing and Invoicing System.
+-Help desk applications.
+-Human Resource Solutions.
+
+Benefits:
+-Modest Software Tools.
+-Multitenant Solutions.
+
+Issues:
+-Network Dependence.
+-Lack of Portability between Saas Cloud. 
+ 
+                                                                  The End !
+
+
+
+
+
