@@ -1,10 +1,89 @@
-Assignment No 1
+                              DevOps Assignment no 01
 
-What is cloud Computing?
+Name: Usama khan khokher
+
+Registration Number: SP18-BSE-051
+
+
+Question no 01
+What is cloud computing?
+Answer:
+•	Services and solutions that are delivered and consumed in real time over internet are cloud services.
+For example: when you store photos online, use webmail or a social networking site, you          are using a “cloud computing” service.
+•	Cloud computing is a delivery model of computing services over the internet.
+For example: it enables real time development, deployment and delivery of board range of products, service and solutions.
+Common Characteristics: 
+•	Massive scale
+•	Homogeneity
+•	Virtualization
+•	Low-cost software
+Essential Characteristics:
+•	on demand self-service
+•	Broad network access
+•	Resource peeling
+
+Question no 02
 What are the different types of Cloud?
-What are the cloud service models?
+Answer:
 
-Explain the above questions in a single file and push them to the below Git repo: 
-https://github.com/Zeeshanarshad12/AssignmentNo1
+There are Four different kinds of Cloud:
+•	Public Cloud.
+•	Private Cloud.
+•	Community Cloud.
+•	Hybrid Cloud.
 
-Good Luck !!!
+Public Cloud: provisioned for open use for the public by a particular organization who also hosts the service.
+Private Cloud: used for a single organization; can be internally or externally hosted.
+Community Cloud: shared by several organization; typically, externally hosted, but may be can be internally hosted by one of the organizations.
+Hybrid Cloud: composition of the two or more clouds (private, community or public) that remain unique but are bound together, offering the benefits of multiple development models; is internally and externally hosted.
+
+Question no 03 
+What is the Cloud Service Models?
+Answer:
+There are Three types of Cloud Service Models
+1.	Infrastructure as a Service (Iaas).
+2.	Platform as a Service (Paas).
+3.	Software as a Service (Saas).
+
+Infrastructure as a Service (Iaas):
+Iaas is most basic level of Service. Iaas Provides access to fundamental infrastructure such as physical machines, virtual machines , virtual storage etc.
+For Example:
+•	AWS EC2
+•	Rackspace
+•	Google Compute Engine(GCE)
+
+Advantages:
+•	Full Control of the computing resources through administrative access to VMs.
+•	Portability, Interoperability with legacy Applications.
+Disadvantages:
+•	Data Erase Practices.
+•	Compatibility with legacy security vulnerabilities.
+
+Platform as a Service (Paas).
+Paas provides the runtime environment for applications, development and deployment tools etc. Paas provides all of the facilities required to support the complete life cycle of building and delivering web applications and services entirely from the internet.
+Advantages:
+•	Lower administrative overhead.
+•	Lower total cost of ownership.
+Disadvantages:
+•	Lack of Portability between Paas clouds.
+•	Event based Processor scheduling.
+
+Software as a Service (Saas):
+Saas model allows to use software applications as a service to end users. Software that is deployed on a hosted service and is accessible via internet. There are several Saas applications, some of them are listed below:
+•	BigCommerece
+•	Google Apps 
+•	Salesforce
+Advantages:
+-Modest Software Tools.
+-Multitenant Solutions.
+Disadvantages:
+-Network Dependence.
+-Lack of Portability between Saas Cloud. 
+ 
+                                                                  The End !
+
+
+
+
+
+
