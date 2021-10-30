@@ -1,10 +1,74 @@
-Assignment No 1
+DevOps Assignment no 01
 
-What is cloud Computing?
+Name: Hassan Nawaz
+
+Registration Number: SP18-BSE-063
+
+
+Question no 01
+What is cloud computing?
+Answer:
+Cloud computing is a general term used to describe a new class of network based computing that takes place over the internet:
+	Basically a step a step on form utility computing
+	A group of integrated and networked hardware, software and internet infrastructure
+	Using the internet for communication and transport provides hardware, software and networking services to clients
+These platforms hide the complexity and details of the underlying infrastructure from users and applications by providing very simple graphical interface or API.
+
+Question no 02
 What are the different types of Cloud?
-What are the cloud service models?
+Answer:
 
-Explain the above questions in a single file and push them to the below Git repo: 
-https://github.com/Zeeshanarshad12/AssignmentNo1
+There are Four different kinds of Cloud:
+1.	Public Cloud
+2.	Private Cloud
+3.	Hybrid Cloud
+4.	Multi Cloud
 
-Good Luck !!!
+1.	Public Cloud: Public clouds are cloud environments typically created from IT infrastructure not owned by the end user.  For example: Amazone web services
+
+2.	Private Cloud: Private clouds are loosely defined as cloud environments solely dedicated to a single end user or group, where the environment usually runs behind that user or group's firewall. All clouds become private clouds when the underlying IT infrastructure is dedicated to a single customer with completely isolated access.
+3.	Hybrid Cloud: A hybrid cloud is a seemingly single IT environment created from multiple environments connected through local area networks , wide area networks, virtual private networks or APIs.
+4.	Multi Cloud: Multiclouds are a cloud approach made up of more than 1 cloud service, from more than 1 cloud vendor public or private. All hybrid clouds are multi clouds, but not all multi clouds are hybrid clouds. Multi clouds become hybrid clouds when multiple clouds are connected by some form of integration or orchestration.
+
+
+
+Question no 03 
+What are the Cloud Service Models?
+Answer:
+There are Three types of Cloud Service Models
+1.	Infrastructure as a Service (Iaas).
+2.	Platform as a Service (Paas).
+3.	Software as a Service (Saas).
+
+Infrastructure as a Service (Iaas):
+Iaas is most basic level of Service. Iaas Provides access to fundamental infrastructure such as physical machines, virtual machines , virtual storage etc.
+Advantages:
+1.	Full Control of the computing resources through administrative access to VMs.
+2.	Portability, Interoperability with legacy Applications.
+Disadvantages:
+1.	Data Erase Practices.
+2.	Compatibility with legacy security vulnerabilities.
+
+Platform as a Service (Paas):
+Paas provides the runtime environment for applications, development and deployment tools etc. Paas provides all of the facilities required to support the complete life cycle of building and delivering web applications and services entirely from the internet.
+Advantages:
+1.	Lower administrative overhead.
+2.	Lower total cost of ownership.
+Disadvantages:
+1.	Lack of Portability between Paas clouds.
+2.	Event based Processor scheduling.
+
+Software as a Service (Saas):
+Saas model allows to use software applications as a service to end users. Software that is deployed on a hosted service and is accessible via internet. There are several Saas applications, some of them are listed below:
+	Billing and Invoicing System.
+	Help desk applications.
+
+Advantages:
+1.	Modest Software Tools.
+2.	Multitenant Solutions.
+
+Disadvantages:
+1.	Network Dependence.
+2.	Lack of Portability between Saas Cloud. 
+ 
+                                                                  The End !
